@@ -1,1 +1,1 @@
-# NewsLetter-Signup using MailChimp API
+# NewsLetter-Signup Website
